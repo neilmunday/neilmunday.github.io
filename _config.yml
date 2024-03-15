@@ -1,5 +1,5 @@
 title: neilmunday
-email: neilmunday@users.noreply.github.com"
+email: neilmunday@users.noreply.github.com
 description: >- 
   Github web site for Neil Munday
 baseurl: ""
@@ -13,4 +13,3 @@ plugins:
 exclude:
   - tools/
   - doc/
-  
