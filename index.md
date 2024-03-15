@@ -1,5 +1,3 @@
-# Neil Munday
-
 ## Projects
 
 * [Salt Minion Inventory](https://github.com/neilmunday/Salt-Minion-Inventory)
