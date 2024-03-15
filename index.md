@@ -1,3 +1,7 @@
+---
+layout: home
+title: Neil Munday
+---
 
 ## Projects
 
