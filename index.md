@@ -2,7 +2,7 @@
 
 * [Salt Minion Inventory](https://github.com/neilmunday/Salt-Minion-Inventory)
 * [Solar ROI](https://github.com/neilmunday/solar-roi)
-* [Slurm-Mail](https://github.com/neilmunday/slurm-mail)
+* [Slurm-Mail](https://neilmunday.github.io/slurm-mail)
 
 ## Links
 
